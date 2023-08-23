@@ -1,3 +1,4 @@
+#!/user/bin/env node
 // Import the 'inquirer' library for user input
 import inquirer from 'inquirer';
 

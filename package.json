@@ -1,8 +1,9 @@
 {
-  "name": "mycalculator",
+  "name": "hamidnisar-mycalculator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "calculator.js",
+  "bin": "./calculator.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,11 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.4.10"
+    "@types/node": "^20.5.3"
   },
   "dependencies": {
     "@types/chalk": "^2.2.0",
     "@types/inquirer": "^9.0.3",
-    "inquirer": "^9.2.10"
+    "inquirer": "^9.2.10",
+    "user": "^0.0.0"
   }
 }

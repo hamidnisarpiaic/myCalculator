@@ -17,6 +17,7 @@
   "dependencies": {
     "@types/chalk": "^2.2.0",
     "@types/inquirer": "^9.0.3",
+    "hamidnisar-mycalculator": "^1.0.0",
     "inquirer": "^9.2.10",
     "user": "^0.0.0"
   }
